@@ -7,7 +7,7 @@
 *,
 *::after,
 *::before {
-  padding: 0;
+  padding: 1;
   margin: 1;
   box-sizing: border-box;
 }
@@ -48,7 +48,7 @@ h1 {
 ############## Icon Component Styles  ######################
 
 .icon {
-  font-size: 35px;
+  font-size: 36px;
   color: #000000;
   font-weight: bolder;
 }
