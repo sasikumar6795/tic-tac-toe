@@ -1,4 +1,6 @@
 {
+  
+  "New Item": "hi"
   "extends": "tslint:recommended",
   "rulesDirectory": [
     "codelyzer"
